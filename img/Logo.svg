@@ -1,0 +1,22 @@
+<svg width="55" height="39" viewBox="0 0 55 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Logo">
+<path id="Ellipse 6" d="M38.4754 30.3911C38.0724 42.8042 30.9254 36.0334 27.0295 36.0334C23.1337 36.0334 16.7659 42.8311 15.4225 30.3911C14.7182 23.8702 21.1185 18.9453 27.0295 18.9453C32.9405 18.9453 38.689 23.8119 38.4754 30.3911Z" fill="#0494B7"/>
+<ellipse id="Ellipse 7" cx="44.7692" cy="18.4218" rx="6.19267" ry="7.54273" transform="rotate(44.1268 44.7692 18.4218)" fill="#0494B7"/>
+<ellipse id="Ellipse 8" cx="6.19267" cy="7.54273" rx="6.19267" ry="7.54273" transform="matrix(-0.717801 0.696248 0.696248 0.717801 8.89014 8.69598)" fill="#0494B7"/>
+<ellipse id="Ellipse 9" cx="6.19267" cy="7.54273" rx="6.19267" ry="7.54273" transform="matrix(-0.972195 0.234171 0.234171 0.972195 24.5908 0.112915)" fill="#0494B7"/>
+<ellipse id="Ellipse 10" cx="34.2249" cy="8.89607" rx="6.19267" ry="7.54273" transform="rotate(13.5428 34.2249 8.89607)" fill="#0494B7"/>
+<circle id="Ellipse 11" cx="26.9759" cy="30.6061" r="0.644837" stroke="black" stroke-width="0.376155"/>
+<circle id="Ellipse 18" cx="26.9759" cy="27.1669" r="0.644837" stroke="black" stroke-width="0.376155"/>
+<circle id="Ellipse 19" cx="26.9759" cy="34.0452" r="0.644837" stroke="black" stroke-width="0.376155"/>
+<circle id="Ellipse 16" cx="23.5364" cy="30.6061" r="0.644837" stroke="black" stroke-width="0.376155"/>
+<circle id="Ellipse 17" cx="30.4149" cy="30.6061" r="0.644837" stroke="black" stroke-width="0.376155"/>
+<circle id="Ellipse 12" cx="26.9755" cy="30.6061" r="1.93451" stroke="black" stroke-width="0.376155"/>
+<circle id="Ellipse 13" cx="26.9757" cy="30.6061" r="5.31991" stroke="black" stroke-width="0.376155"/>
+<circle id="Ellipse 14" cx="26.9757" cy="30.6061" r="6.39464" stroke="black" stroke-width="0.376155"/>
+<path id="Ellipse 15" d="M18.0491 37.9411C16.4078 35.946 15.4224 33.3911 15.4224 30.6061C15.4224 24.2253 20.595 19.0527 26.9757 19.0527C33.3564 19.0527 38.529 24.2253 38.529 30.6061C38.529 33.3911 37.5436 35.946 35.9023 37.9411" stroke="black" stroke-width="0.376155"/>
+<line id="Line 1" x1="24.1568" y1="27.7902" x2="25.0703" y2="28.7574" stroke="black" stroke-width="0.376155"/>
+<line id="Line 4" y1="-0.188078" x2="1.33045" y2="-0.188078" transform="matrix(0.686624 -0.727013 -0.727013 -0.686624 24.02 33.2929)" stroke="black" stroke-width="0.376155"/>
+<line id="Line 2" y1="-0.188078" x2="1.33045" y2="-0.188078" transform="matrix(-0.686624 0.727013 0.727013 0.686624 29.8774 27.9193)" stroke="black" stroke-width="0.376155"/>
+<line id="Line 3" x1="29.7407" y1="33.422" x2="28.8272" y2="32.4548" stroke="black" stroke-width="0.376155"/>
+</g>
+</svg>
