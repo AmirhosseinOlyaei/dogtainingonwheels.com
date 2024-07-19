@@ -537,10 +537,10 @@
     flex: 1;
     min-width: 250px;
     flex-grow: 1;
-    height: 720px;
+    height: 740px;
     background-image: url(./img/image.png);
     position: relative;
-    background-size: cover;
+    background-size: contain;
     background-position: 50% 50%;
 }
 
