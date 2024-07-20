@@ -1157,6 +1157,7 @@
     align-self: stretch;
     width: 100%;
     flex: 0 0 auto;
+    /* padding: 32px 0px; */
 }
 
 .desktop-homepage .logo-and-links {
